@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T01:25:46.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tMIkWpvQ6EJVXk-0n4TI" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T01:26:53.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HUDxROaSX7ZFeOtxrHTz" version="24.2.1" type="github">
   <diagram name="Page-1" id="DaeDmcBLZQ6chdSBhRTc">
     <mxGraphModel dx="927" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="600" y="192" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="ben5U8rEEhO7ePI2dHpk-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
-          <mxGeometry x="30" y="192" width="70" height="70" as="geometry" />
+          <mxGeometry x="70" y="192" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ben5U8rEEhO7ePI2dHpk-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="372" y="196.75" width="41.79" height="68.5" as="geometry" />
@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="ben5U8rEEhO7ePI2dHpk-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="246" as="sourcePoint" />
+            <mxPoint x="160" y="246" as="sourcePoint" />
             <mxPoint x="260.00100000000003" y="246.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -127,7 +127,7 @@
         <mxCell id="ben5U8rEEhO7ePI2dHpk-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="201.5" as="sourcePoint" />
-            <mxPoint x="100" y="201.5" as="targetPoint" />
+            <mxPoint x="140" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ben5U8rEEhO7ePI2dHpk-61" value="HTTP&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
