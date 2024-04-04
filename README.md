@@ -1,2 +1,2 @@
 ## Introduction
-These are cloud security models showcasing my understanding of cloud virtualization and using networking principles to make a secure environment.
+These are cloud security models showcasing cloud networks I've built using networking principles to make a secure environment.
